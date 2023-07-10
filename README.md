@@ -10,7 +10,7 @@
 - 👀 I’m interested in everything interesting
 - 🌱 I’m currently studying to be a Data Analyst
 - 💞️ I’m open for cooperation
-- 📫 My mail: ulyana.navros@yandex.ru
+- 📫 My mail: ulyana.navros@ya.ru
 
 
 <!---
